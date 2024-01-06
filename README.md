@@ -1,1 +1,1 @@
-This repository includes all AI projects are inplemented by PyTorch
+This repository includes all AI projects are implemented by PyTorch
